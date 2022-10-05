@@ -32,9 +32,7 @@ Here are some ideas to get you started:
 
 ### 📊 my stats
 
-<a href="https://github.com/fei-felicia-chen/fei-felicia-chen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=c%2B%2B,Shell,Euphoria&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Felicia's GitHub Stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell&theme=dark)](https://github.com/fei-felicia-chen/github-readme-stats)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fei-felicia-chen&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
