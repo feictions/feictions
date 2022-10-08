@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### 👀 about me:
 
-- I am a U2 (junior) computer science student at McGill University 🇨🇦. 
-- I am currently working on a flappy bird project using C#🦜.
+- I am a U2 (junior) computer science student at McGill University 🇨🇦
+- I am currently working on a flappy bird project using C#🦜
 
 ### :handshake: reach me through
 
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ### 📊 my stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell,Euphoria&theme=dark&langs_count=8)](https://github.com/fei-felicia-chen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell,Euphoria&theme=cobalt&langs_count=10)](https://github.com/fei-felicia-chen/github-readme-stats)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fei-felicia-chen&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fei-felicia-chen&theme=cobalt&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
