@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 ### 👀 about me:
 
 - I am a U2 (junior) computer science student at McGill University 🇨🇦
-- I am currently working on a flappy bird project using C#🦜
+- I am currently working on a flappy bird project using C# 🦜
 
 ### :handshake: reach me through
-
-   <div id="badges">
+<center>
+   <div id="badges", align="center">
     <a href="https://www.linkedin.com/in/chen-felicia/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
+    <a href="https://steamcommunity.com/id/feluwu/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" width="30"</a>
   </div>
 
 ### 📊 my stats
