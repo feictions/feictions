@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 👀 about me:
 
 - I am a U2 (junior) computer science student at McGill University 🇨🇦. 
-- I am currently working on a flappy bird project using PyGame 🦜.
+- I am currently working on a flappy bird project using C#🦜.
 
 ### :handshake: reach me through
 
