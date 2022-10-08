@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ### 📊 my stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell,Euphoria&theme=cobalt&langs_count=10)](https://github.com/fei-felicia-chen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell,Euphoria&theme=omni&langs_count=10)](https://github.com/fei-felicia-chen/github-readme-stats)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fei-felicia-chen&theme=cobalt&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fei-felicia-chen&theme=omni&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
