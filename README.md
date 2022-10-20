@@ -3,7 +3,7 @@
 ### 👀 about me:
 
 - I am a U2 (junior) computer science student at McGill University 🇨🇦
-- I am currently working on a tic tac toe project using C# 
+- I am currently working on a C# game using Unity
 
 ### :handshake: reach me through
 <center>
