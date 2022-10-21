@@ -4,6 +4,7 @@
 
 - I am a U2 (junior) computer science student at McGill University 🇨🇦
 - I am currently working on a C# game using Unity
+- I am also learning WPF and QT frameworks
 
 ### :handshake: reach me through
 <center>
