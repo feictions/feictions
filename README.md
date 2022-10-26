@@ -4,7 +4,7 @@
 
 - I am in my second year of computer science at McGill University 🇨🇦
 - I am currently working on a C# game using Unity
-- I am also learning WPF and QT frameworks
+- I am also learning WPF and QT tools
 
 ### :handshake: reach me through
 <center>
