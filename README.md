@@ -10,7 +10,7 @@
 <center>
    <div id="badges", align="center">
     <a href="https://www.linkedin.com/in/chen-felicia/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
     <a href="https://steamcommunity.com/id/feluwu/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" width="30"</a>
