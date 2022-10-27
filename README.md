@@ -2,7 +2,7 @@
 
 ### 👀 about me:
 
-- I am in my second year of computer science at McGill University 🇨🇦
+- I am a second year in computer science at McGill University 🇨🇦
 - I am currently working on a C# game using Unity
 - I am also learning WPF and QT tools
 
