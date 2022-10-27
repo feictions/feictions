@@ -8,7 +8,7 @@
 
 ### :handshake: reach me through
    <div id="badges">
-    <a href="https://www.linkedin.com/in/chen-felicia/">
+    <a href="https://www.linkedin.com/in/chen-felicia">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
