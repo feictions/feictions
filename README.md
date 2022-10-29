@@ -7,13 +7,28 @@
 - I am also learning WPF and QT tools
 
 ### :handshake: reach me through
-   <div id="badges">
+   <div>
     <a href="https://www.linkedin.com/in/chen-felicia">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
     <a href="https://steamcommunity.com/id/feluwu/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" width="30"</a>
   </div>
+  
+### :keyboard: my main languages:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <! -- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+  
+  
+ 
+</div>
 
 ### 📊 my stats
 
