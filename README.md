@@ -9,10 +9,10 @@
 ### :handshake: reach me through
    <div>
     <a href="https://www.linkedin.com/in/chen-felicia">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/>
     </a>
-    <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
-    <a href="https://steamcommunity.com/id/feluwu/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" width="30"</a>
+    <a href="mailto:felicia.qf.chen@gmail.com"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" target="_blank width="30" ></a>
+    <a href="https://steamcommunity.com/id/feluwu/"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" target="_blank width="30"</a>
   </div>
   
 ### :keyboard: my main languages:
