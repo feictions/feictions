@@ -3,8 +3,6 @@
 ### 👀 about me:
 
 - I am a second year in computer science at McGill University 🇨🇦
-- I am currently working on a C# game using Unity
-- I am also learning WPF and QT tools
 
 ### :handshake: reach me through
    <div>
