@@ -3,7 +3,7 @@
 ### 👀 about me:
 
 - I am a second year in computer science at McGill University 🇨🇦
-- I love to play games :)
+- I love to play games, do game dev, as well as hackathons :)
 
 ### :handshake: reach me through
    <div>
