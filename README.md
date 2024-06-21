@@ -3,14 +3,15 @@
 ### 👀 about me:
 
 - I am a final year in computer science at McGill University 🇨🇦
-- I love to play games, do game dev, as well as hackathons :)
+- I am currently interning as a software engineer at Lyft 👀..
+- As a software engineer, I am always seeking to enhance my abilities and skills to improve my efficiency and excel in this field~
 
 ### :handshake: reach me through
    <div>
-    <!--<a href="https://www.linkedin.com/in/chen-felicia" target="_blank">
+    <a href="https://www.linkedin.com/in/chen-felicia" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:felicia.qf.chen@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>--> 
+    <a href="mailto:felicia.qf.chen@gmail.com" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" alt="Gmail" width="30" ></a>
     <a href="https://steamcommunity.com/id/feluwu/" target="_blank"><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg" alt="Steam" width="30"</a>
   </div>
   
